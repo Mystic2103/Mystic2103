@@ -7,7 +7,7 @@
    Hey I'm Mystic, I like technology and programming. I'm mostly experienced with JavaScript. I have a lot of experience with discord bots. Currently working on a bot named <a href="https://movemain2021.wixsite.com/move/taro">Taro</a>.
     </div>
   </p>
-  .
+  
  
   </div>
 
