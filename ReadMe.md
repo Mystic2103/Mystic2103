@@ -4,7 +4,7 @@
     <h1 align="center" >Mystic's Profile</h1>
     <br>
     <div align="left">
-   Hey I'm Mystic, I like technology and programming. I'm mostly experienced with JavaScript. I have a lot of experience with discord bots. Currently working on a bot named <a href="https://movemain2021.wixsite.com/move/taro">Taro</a>.
+   Hey I'm Marwan, I like technology and programming. I'm mostly experienced with JavaScript. I have a lot of experience with discord bots. Currently working on a bot named <a href="https://discord.com/api/oauth2/authorize?client_id=845374552845582336&permissions=8&scope=bot">Taro</a>.
     </div>
   </p>
   
